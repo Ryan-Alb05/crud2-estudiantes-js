@@ -1,0 +1,16 @@
+{
+  "name": "crud2-estudiantes",
+  "version": "1.0.0",
+  "description": "Tu misión es desarrollar un sistema de gestión de estudiantes que permita realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) desde la consola. Este reto te ayudará a reforzar conceptos clave como funciones, objetos, ES Modules y estructuras de datos.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Alberto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
