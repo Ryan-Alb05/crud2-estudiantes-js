@@ -1,4 +1,4 @@
-import {crearEstudiante } from 'modules/Estudiante.js';
+import {crearEstudiante } from './Estudiante.js';
 
 const GestorEstudiantes = (() => {
     const estudiantes = {};

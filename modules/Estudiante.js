@@ -1,12 +1,13 @@
-let idCounter = 1;
+
+let currentId = 1;
 
 function crearEstudiante(nombre, edad, nivel) {
     return {
-        id: idCounter++,
+        id: currentId++,
         nombre: nombre,
         edad: edad,
         nivel: nivel
     };
 }
 
-export {crearEstudiante};
+export { crearEstudiante };
