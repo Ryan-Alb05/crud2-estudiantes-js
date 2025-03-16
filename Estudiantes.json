@@ -1,0 +1,242 @@
+[
+  {
+     "nombre":"Juan Pérez",
+     "edad":16,
+     "area":"informatica",
+     "calificaciones":{
+        "Lengua Española":85,
+        "Matemáticas":90,
+        "Ciencias Sociales":78,
+        "Ciencias Naturales":82,
+        "Educación Física":95
+     }
+  },
+  {
+     "nombre":"Ana Gómez",
+     "edad":17,
+     "area":"gestion",
+     "calificaciones":{
+        "Lengua Española":88,
+        "Matemáticas":76,
+        "Ciencias Sociales":92,
+        "Ciencias Naturales":80,
+        "Educación Física":89
+     }
+  },
+  {
+     "nombre":"Carlos Ramírez",
+     "edad":18,
+     "area":"electronica",
+     "calificaciones":{
+        "Lengua Española":75,
+        "Matemáticas":95,
+        "Ciencias Sociales":70,
+        "Ciencias Naturales":85,
+        "Educación Física":90
+     }
+  },
+  {
+     "nombre":"Elena Rivas",
+     "edad":16,
+     "area":"artes",
+     "calificaciones":{
+        "Lengua Española":90,
+        "Matemáticas":65,
+        "Ciencias Sociales":88,
+        "Ciencias Naturales":76,
+        "Educación Física":85
+     }
+  },
+  {
+     "nombre":"Miguel Torres",
+     "edad":17,
+     "area":"academico",
+     "calificaciones":{
+        "Lengua Española":82,
+        "Matemáticas":88,
+        "Ciencias Sociales":85,
+        "Ciencias Naturales":90,
+        "Educación Física":75
+     }
+  },
+  {
+     "nombre":"Sofía Méndez",
+     "edad":18,
+     "area":"gestion",
+     "calificaciones":{
+        "Lengua Española":89,
+        "Matemáticas":78,
+        "Ciencias Sociales":91,
+        "Ciencias Naturales":79,
+        "Educación Física":87
+     }
+  },
+  {
+     "nombre":"José Herrera",
+     "edad":16,
+     "area":"informatica",
+     "calificaciones":{
+        "Lengua Española":80,
+        "Matemáticas":92,
+        "Ciencias Sociales":85,
+        "Ciencias Naturales":87,
+        "Educación Física":88
+     }
+  },
+  {
+     "nombre":"Valeria Castro",
+     "edad":17,
+     "area":"electronica",
+     "calificaciones":{
+        "Lengua Española":78,
+        "Matemáticas":80,
+        "Ciencias Sociales":75,
+        "Ciencias Naturales":88,
+        "Educación Física":92
+     }
+  },
+  {
+     "nombre":"Luis Fernández",
+     "edad":18,
+     "area":"artes",
+     "calificaciones":{
+        "Lengua Española":92,
+        "Matemáticas":68,
+        "Ciencias Sociales":83,
+        "Ciencias Naturales":77,
+        "Educación Física":90
+     }
+  },
+  {
+     "nombre":"Paula Sánchez",
+     "edad":16,
+     "area":"academico",
+     "calificaciones":{
+        "Lengua Española":86,
+        "Matemáticas":89,
+        "Ciencias Sociales":80,
+        "Ciencias Naturales":85,
+        "Educación Física":82
+     }
+  },
+  {
+     "nombre":"Fernando López",
+     "edad":17,
+     "area":"gestion",
+     "calificaciones":{
+        "Lengua Española":75,
+        "Matemáticas":81,
+        "Ciencias Sociales":79,
+        "Ciencias Naturales":82,
+        "Educación Física":88
+     }
+  },
+  {
+     "nombre":"Camila Vargas",
+     "edad":18,
+     "area":"informatica",
+     "calificaciones":{
+        "Lengua Española":91,
+        "Matemáticas":95,
+        "Ciencias Sociales":84,
+        "Ciencias Naturales":90,
+        "Educación Física":85
+     }
+  },
+  {
+     "nombre":"Martín Ortega",
+     "edad":16,
+     "area":"electronica",
+     "calificaciones":{
+        "Lengua Española":80,
+        "Matemáticas":88,
+        "Ciencias Sociales":76,
+        "Ciencias Naturales":85,
+        "Educación Física":80
+     }
+  },
+  {
+     "nombre":"Natalia Rojas",
+     "edad":17,
+     "area":"artes",
+     "calificaciones":{
+        "Lengua Española":85,
+        "Matemáticas":70,
+        "Ciencias Sociales":89,
+        "Ciencias Naturales":75,
+        "Educación Física":92
+     }
+  },
+  {
+     "nombre":"David Muñoz",
+     "edad":18,
+     "area":"academico",
+     "calificaciones":{
+        "Lengua Española":88,
+        "Matemáticas":90,
+        "Ciencias Sociales":83,
+        "Ciencias Naturales":87,
+        "Educación Física":86
+     }
+  },
+  {
+     "nombre":"Andrea Silva",
+     "edad":16,
+     "area":"gestion",
+     "calificaciones":{
+        "Lengua Española":90,
+        "Matemáticas":78,
+        "Ciencias Sociales":92,
+        "Ciencias Naturales":79,
+        "Educación Física":85
+     }
+  },
+  {
+     "nombre":"Javier Mendoza",
+     "edad":17,
+     "area":"informatica",
+     "calificaciones":{
+        "Lengua Española":82,
+        "Matemáticas":95,
+        "Ciencias Sociales":80,
+        "Ciencias Naturales":88,
+        "Educación Física":84
+     }
+  },
+  {
+     "nombre":"Lucía Navarro",
+     "edad":18,
+     "area":"electronica",
+     "calificaciones":{
+        "Lengua Española":76,
+        "Matemáticas":84,
+        "Ciencias Sociales":79,
+        "Ciencias Naturales":85,
+        "Educación Física":89
+     }
+  },
+  {
+     "nombre":"Daniela Castro",
+     "edad":16,
+     "area":"artes",
+     "calificaciones":{
+        "Lengua Española":89,
+        "Matemáticas":72,
+        "Ciencias Sociales":87,
+        "Ciencias Naturales":80,
+        "Educación Física":91
+     }
+  },
+  {
+     "nombre":"Gabriel Moreno",
+     "edad":17,
+     "area":"academico",
+     "calificaciones":{
+        "Lengua Española":84,
+        "Matemáticas":90,
+        "Ciencias Sociales":81,
+        "Ciencias Naturales":85,
+        "Educación Física":80
+     }
+  }
+]

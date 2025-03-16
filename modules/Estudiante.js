@@ -1,13 +1,21 @@
+let currentId = 1; 
 
-let currentId = 1;
+function crearEstudiante(nombre, edad, area, calificaciones = {}) {
+    const id = currentIdId++;
 
-function crearEstudiante(nombre, edad, nivel) {
+    function calcularPromedio() {
+        const valores = Object.values(calificaciones);
+        return valores.length ? valores.reduce((acc, nota) => acc + nota, 0) / valores.length : 0;
+    }
+
     return {
-        id: currentId++,
-        nombre: nombre,
-        edad: edad,
-        nivel: nivel
+        id,
+        nombre,
+        edad,
+        area,
+        calificaciones,
+        calcularPromedio
     };
 }
 
-export { crearEstudiante };
+export default crearEstudiante;
